@@ -1,0 +1,6 @@
+[submodule "xdp-tutorial"]
+	path = xdp-tutorial
+	url = https://github.com/xdp-project/xdp-tutorial.git
+[submodule "bpf-examples"]
+	path = bpf-examples
+	url = https://github.com/xdp-project/bpf-examples.git
