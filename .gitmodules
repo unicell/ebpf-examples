@@ -4,3 +4,6 @@
 [submodule "bpf-examples"]
 	path = bpf-examples
 	url = https://github.com/xdp-project/bpf-examples.git
+[submodule "xdp_walkthrough_examples"]
+	path = xdp_walkthrough_examples
+	url = https://github.com/pabeni/xdp_walkthrough_examples.git
