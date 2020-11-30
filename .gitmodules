@@ -7,3 +7,6 @@
 [submodule "xdp_walkthrough_examples"]
 	path = xdp_walkthrough_examples
 	url = https://github.com/pabeni/xdp_walkthrough_examples.git
+[submodule "ship-bpf-with-go"]
+	path = ship-bpf-with-go
+	url = https://github.com/lmb/ship-bpf-with-go.git
